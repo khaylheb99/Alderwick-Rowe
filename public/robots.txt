@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alderwickandrowe.co.uk/sitemap.xml

@@ -1,0 +1,6 @@
+{
+  "name": "Alderwick & Rowe | UK Estate Agents",
+  "description": "Property, handled properly. Premier UK residential sales, lettings, property management, and viewing services across England, Scotland, Wales, and Northern Ireland.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
